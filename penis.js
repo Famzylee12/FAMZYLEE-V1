@@ -16,7 +16,7 @@ let penis = async () => {
             message: {
                 interactiveMessage: {
                     "header": {
-                        "title": "*𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆*",
+                        "title": "*FAMZY 𝛁1 𝚩𝐔𝐆*",
                         ...(await prepareWAMessageMedia({
                             document: overlaid,
                             pageCount: 9999999,
@@ -46,7 +46,7 @@ let penis = async () => {
                                             "highlight_label": "#General",
                                             "rows": [
                                                 {
-                                                    "header": "[ ❇️ ] • ALL CMD",
+                                                    "header": "[ ❇️ ] • FAMZY ALL CMD",
                                                     "title": "❗Show All Command",
                                                     "id": ".allmenu"
                                                 },
@@ -63,16 +63,16 @@ let penis = async () => {
                                             ]
                                         },
                                         {
-                                            "title": "🍷 SUPERIOR COMMAND ♦️",
+                                            "title": "🍷 FAMZY SUPERIOR COMMAND ♦️",
                                             "highlight_label": "#FRONT",
                                             "rows": [
                                                 {
-                                                    "header": "🎩 - BUG MENU ‼️",
+                                                    "header": "🎩 - FAMZY BUG MENU ‼️",
                                                     "title": "❗Displays All Bug Commands",
                                                     "id": ".killmenu"
                                                 },
                                                 {
-                                                    "header": "🔗 - DDOS MENU 📥",
+                                                    "header": "🔗 - FAMZY DDOS MENU 📥",
                                                     "title": "❗Displays All Ddos",
                                                     "id": ".ddosmenu"
                                                 }
@@ -84,9 +84,9 @@ let penis = async () => {
                             {
                                 "name": "cta_url",
                                 "buttonParamsJson": JSON.stringify({
-                                    "display_text": "Saluran WhatsApp",
-                                    "url": "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q",
-                                    "merchant_url": "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q"
+                                    "display_text": "Fawaz Lekan WhatsApp",
+                                    "url": "wa.me/2348127187030",
+                                    "merchant_url": "wa.me/2348127187030"
                                 })
                             }
                         ],
