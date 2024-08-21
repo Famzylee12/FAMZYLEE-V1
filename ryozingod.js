@@ -3521,7 +3521,7 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
     *Resp Speed : ${latensi.toFixed(4)}*
     *Ram : ${formatp(os.totalmem() - os.freemem())} / ${formatp(os.totalmem())}*
     *Runtime : ${run}*
-    https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q
+    wa.me/2348127187030
 `);
               }
               break;
@@ -3584,13 +3584,13 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                 ryozingod.sendMessage(
                   m.chat,
                   {
-                    text: `𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆 SCRIPT 👇
+                    text: `FAMZY 𝛁1 𝚩𝐔𝐆 SCRIPT 👇
 
 🌐 *_Git:_* https://github.com/Itzpatron/PATRON-V1
 
-🪀 *_Group:_* https://chat.whatsapp.com/HSC7DAJOD9nBKbl7CmxxLb
+🪀 *_Group:_* 
 
-🪀 *_Channel:_* https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q
+🪀 *_Channel:_* 
 
 🚹 *_The Devs:_* https://t.me/textpatron_bot and https://tinyurl.com/2xrw69su
 
@@ -3606,7 +3606,7 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                 ryozingod.sendMessage(
                   m.chat,
                   {
-                    text: `LIST OF PANEL BOT PRIVATE BY 𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽
+                    text: `LIST OF PANEL BOT PRIVATE BY FAWAZ LEKAN
 
  │⬡ 1GB Cpu: 30% - 2.000/bln
  │⬡ 2GB Cpu: 50% - 3.000/bln
@@ -3624,7 +3624,7 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
 + anti ddos
 + guarantee 24hr
 + fast
-*CHAT  𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽* : wa.me/2347041039367`,
+*CHAT  FAWAZ LEKAN* : wa.me/2348127187030`,
                   },
                   { quoted: m }
                 );
@@ -3636,9 +3636,9 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                 ryozingod.sendMessage(
                   m.chat,
                   {
-                    text: `*ACCOUNT-8133729715*
+                    text: `*ACCOUNT-8127187030*
 *BANK-OPAY*
-*NAME-FADARE*`,
+*NAME-Ayinla_Shakiru_Abiba*`,
                   },
                   { quoted: m }
                 );
@@ -3665,7 +3665,7 @@ Hi
 ┃➥  Login : https://private.exvlora.xyz
 ┃➥  Username : ${sellpanelUsername}
 ┃➥  Password : ${sellpanelPassword}
-┗━━━━━[ 𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽 ]━━━━
+┗━━━━━[ FAWAZ LEKAN ]━━━━
     `;
 
               ryozingod.sendMessage(
@@ -3706,7 +3706,7 @@ Hi
 ┃➥  Login : https://private.exvlora.xyz
 ┃➥  Username : ${sellpanel2Username}
 ┃➥  Password : ${sellpanel2Password}
-┗━━━━━[ 𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽 ]━━━━
+┗━━━━━[ FAWAZ LEKAN ]━━━━
     `;
 
               await ryozingod.sendMessage(
@@ -3722,13 +3722,13 @@ Hi
               break;
             case "owner":
             case "botowner":
-              let namaown = `PATRON 🚹`;
+              let namaown = `FAMZY ♐`;
               var contact = generateWAMessageFromContent(
                 m.chat,
                 proto.Message.fromObject({
                   contactMessage: {
                     displayName: `${namaown}`,
-                    vcard: `BEGIN:VCARD\nVERSION:3.0\nN:;;;;\nFN:${namaown}\nitem1.TEL;waid=${global.ownMain}:+${global.ownMain}\nitem1.X-ABLabel:Ponsel\nX-WA-BIZ-DESCRIPTION:[[ ༑ 𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆༑ ]]\nX-WA-BIZ-NAME: [[ ༑ 𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆 ༑ ]]\nEND:VCARD`,
+                    vcard: `BEGIN:VCARD\nVERSION:3.0\nN:;;;;\nFN:${namaown}\nitem1.TEL;waid=${global.ownMain}:+${global.ownMain}\nitem1.X-ABLabel:Ponsel\nX-WA-BIZ-DESCRIPTION:[[ ༑ FAMZY 𝛁1 𝚩𝐔𝐆༑ ]]\nX-WA-BIZ-NAME: [[ ༑ FAMZY 𝛁1 𝚩𝐔𝐆 ༑ ]]\nEND:VCARD`,
                   },
                 }),
                 { userJid: m.chat, quoted: m }
@@ -3742,7 +3742,7 @@ Hi
               {
                 ryozingod.sendMessage(
                   m.chat,
-                  { text: `*ALL HAILS TO 𝙿𝙰𝚃𝚁𝙾𝙽 & 𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽*` },
+                  { text: `*ALL HAILS TO FAMZY & FAWAZ LEKAN*` },
                   { quoted: m }
                 );
               }
@@ -3753,19 +3753,19 @@ Hi
                 ryozingod.sendMessage(
                   m.chat,
                   {
-                    text: `*DM ME FOR ANY QUESTION OR COMPLAIN* , https://t.me/textpatron_bot `,
+                    text: `*DM ME FOR ANY QUESTION OR COMPLAIN* , https://wa.me/2348127187030`,
                   },
                   { quoted: m }
                 );
               }
               break;
             //=================================================//
-            case "channel":
+            case "owner":
               {
                 ryozingod.sendMessage(
                   m.chat,
                   {
-                    text: `https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q 
+                    text: `wa.me/2348127187030
 *PLS JOIN AND ALWAYS SUPPORT US 😃*`,
                   },
                   { quoted: m }
@@ -3777,7 +3777,7 @@ Hi
               {
                 ryozingod.sendMessage(
                   m.chat,
-                  { text: `*FATHER OF PATRON*` },
+                  { text: `*FATHER OF FAMZY*` },
                   { quoted: m }
                 );
               }
@@ -4024,12 +4024,12 @@ break
               {
                 if (!isDeveloper) return joreply(mess.owner);
                 ryozingod.public = false;
-                joreply("𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆 SET TO PRIVATE BOSS");
+                joreply("FAMZY 𝛁1 𝚩𝐔𝐆 SET TO PRIVATE BOSS");
               }
               break;
             //=================================================//
             case "runtime":
-              let runtimetext = ` 𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆 Have Been Running For ${runtime(
+              let runtimetext = ` FAMZY 𝛁1 𝚩𝐔𝐆 Have Been Running For ${runtime(
                 process.uptime()
               )}`;
               ryozingod.readMessages(
@@ -4039,8 +4039,8 @@ break
                   contextInfo: {
                     externalAdReply: {
                       showAdAttribution: true,
-                      title: ` 𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆`,
-                      body: `PATRON 🚹`,
+                      title: ` FAMZY 𝛁1 𝚩𝐔𝐆`,
+                      body: `FAMZY ♐`,
                       thumbnailUrl: "media/overlaid.jpg",
                       sourceUrl: global.link,
                       mediaType: 1,
