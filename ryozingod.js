@@ -3,8 +3,8 @@
 Kalo Mau Recode Kasih Credit gw ›
 TheZetsubXygen / Ryo
 
-📝 > Created By PATRON 🚹
-🖥️ > Base Ori By BLUE DEMON
+📝 > Created By FAMZY ♐
+🖥️ > Base Ori By FAWAZ LEKAN
                
 */
 const {
